@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f0f8ff;
+    font-family: "Quicksand", sans-serif;
 }
 
 .Redes{
@@ -190,6 +191,10 @@ p{
     background-color: #0066cc;
     color: #f0f8ff;
     border-radius: 10px;
+    padding: 25px;
+    margin: 50px auto;
+    max-width: 500px;
+    position: relative;
 }
 
 .Opinion img{

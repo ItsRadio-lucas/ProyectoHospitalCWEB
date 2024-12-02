@@ -326,30 +326,3 @@ p{
     }
 }
 
-form{
-    background-color: #0080ff;
-    padding: 25px;
-    color: #f0f8ff;
-    border-radius: 25px;
-}
-
-form input{
-    border-radius: 5px;
-    background-color: #f0f8ff;
-    font-family: Quicksand, sans-serif;
-    border: none;
-}
-
-form textarea{
-    border: none;
-    border-radius: 5px;
-    font-family: Quicksand, sans-serif;
-}
-
-form button{
-    background-color: #004080;
-    border: none;
-    padding: 5px;
-    border-radius: 5px;
-    color: #f0f8ff;
-}
